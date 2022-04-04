@@ -1,0 +1,35 @@
+.email{
+    color: gray;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.search-bar{
+    font-size: 20px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 370px;
+}
+.description{
+    color: gray;
+}
+.agree{
+    background-color: rgb(41, 119, 201);
+    color: white;
+    font-size: 15px;
+    border-style: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 50px;
+    text-align: center;
+    transition: opacity 0.2s;
+
+
+}
+
+.agree:active{
+    opacity: 0.9;
+}
